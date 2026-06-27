@@ -37,7 +37,7 @@ body {
     position: relative;
     height: 100vh;
     /* Sostituisci 'background.jpg' con il link della tua foto di sfondo */
-    background: url('background.jpg') center/cover no-repeat;
+    background: url('bg.png') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
